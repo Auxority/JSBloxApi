@@ -1,0 +1,14 @@
+{
+	"name": "jsblox",
+	"version": "1.0.0",
+	"description": "Roblox JS Library",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Ghello world\" && exit 1"
+	},
+	"author": "Auxority",
+	"license": "ISC",
+	"dependencies": {
+		"request-promise": "^4.2.4"
+	}
+}
