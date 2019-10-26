@@ -3,7 +3,7 @@ Roblox JS Library
 
 
 # Usage
-```
+```JS
 const JSBlox = require("./JSBlox");
 const cookie = require("./cookie.json").cookie;
 
