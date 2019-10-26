@@ -2,7 +2,8 @@
 Roblox JS Library
 
 
-# Example
+# Usage
+```
 const JSBlox = require("./JSBlox");
 const cookie = require("./cookie.json").cookie;
 
@@ -15,3 +16,4 @@ const cookie = require("./cookie.json").cookie;
 
     console.log(await eUser.getPlayerInfo());
 })();
+```
