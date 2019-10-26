@@ -1,5 +1,5 @@
 # JSBlox
-Roblox JS Library
+Roblox JS Library made by Auxority#5595
 
 
 # Usage
