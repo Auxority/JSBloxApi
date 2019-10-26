@@ -4,7 +4,7 @@ Roblox JS Library made by Auxority#5595
 
 # Usage
 ```JS
-const JSBlox = require("./JSBlox");
+const JSBlox = require("jsblox");
 const cookie = require("./cookie.json").cookie;
 
 (async() => {
